@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Crystal Game</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="./assets/css/style.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="./assets/css/reset.css" />
+    <link href="https://fonts.googleapis.com/css?family=Arbutus+Slab|Special+Elite" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Special+Elite" rel="stylesheet">
+</head>
+
+<body>
+    <div class = "header">
+        <h1>Crystal Game</h1>
+    </div>
+    <div id = "howTo">
+        <h2>How to Play...</h2>
+    </div>    
+            <li class = "roman">You will be given a random number at the start of the game, "Random Number"</li>
+            <li class = "roman">The 4 crystals are in order below:</li>
+        </ol>
+              <div class= "crystals">
+                <li>Atacamite</li>
+                <li>Ruby</li>
+                <li>Amber</li>
+                <li>Moldavite</li>
+              </div>
+            <li class = "roman">By clicking on the crystal you'll be adding random points to your score</li>
+            <li class = "roman">You win the game by matching your score to the random number</li>
+            <li class = "roman">You lose if your score goes over the random number</li>
+            <li class = "roman">The value of each crystal is hidden until you click on it</li>
+            <li class = "roman">The crystal values reset after each game</li>
+        
+    <div class = "numberToMatch">
+        <h2>Random Number:</h2>
+        <span id = "randomNumber"></span>
+    </div>
+    <div class = "winsLosses">
+        <h2>Wins:
+            <span id ="numberWins"></span>
+                <br>
+            Losses:
+            <span id ="numberLosses"></span>
+        </h2>
+    </div>
+    <div class = "crystalBox">
+        <img src="./assets/images/atacamite.jpg" id ="one" alt="" srcset="">
+        <img src="./assets/images/blood ruby.jpg" id = "two"alt="" srcset="">
+        <img src="./assets/images/amber.jpg" id = "three" alt="">
+        <img src="./assets/images/moldavite.jpg" id = "four" alt="" srcset="">
+    </div>
+    <div class = "scoreBox">
+        <h2>Score:</h2>
+        <span id = "gameScore"></span>
+    </div>
+        
+        
+    </div>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.0.js"></script>
+	<script type="text/javascript" src="./assets/javascript/game.js"></script>
+</body>
+</html>

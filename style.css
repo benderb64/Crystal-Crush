@@ -1,0 +1,130 @@
+.header {
+    margin: 10px;
+    background-color: #F35D3C;
+    border-radius: 20px;
+    font-size: 50px;
+    display: block;
+    border: 3px solid;
+    width: 300px;
+    box-sizing: border-box;
+    text-align: center;
+    position: relative;
+    left: 200px;
+    font-family: 'Special Elite', cursive;
+    padding: top 10px;
+    
+}
+
+#howTo {
+    margin: 10px;
+    background-color: #71B2B4;
+    font-size: 30px;
+    display: inline-block;
+    border: 1px solid;
+    box-sizing: border-box;
+    text-align: center;
+    width: 150px;
+    position: relative;
+    left: 24px;
+    font-family: 'Special Elite', cursive;
+}
+
+body {
+    background-color: #F3ECE9;
+
+}
+
+#four {
+max-height: 100px;
+max-width: 100px;
+width: 80px;
+height: 120px;
+position: relative;
+bottom: 77px;
+}
+
+#two {
+max-height: 100px;
+max-width: 100px;
+width: 80px;
+height: 120px;
+position: relative;
+bottom: 77px;
+}
+
+#one {
+max-height: 100px;
+max-width: 100px;
+width: 80px;
+height: 120px;
+position: relative;
+bottom: 77px;
+}
+
+#three {
+max-height: 100px;
+max-width: 100px;
+width: 80px;
+height: 120px;
+position: relative;
+bottom: 77px;
+}
+
+.roman {
+    list-style-type: upper-roman;
+    font-size: 25px;
+    font-variant: small-caps;
+}
+
+.crystals {
+    font-family: 'Arbutus Slab', serif;
+    font-size: 25px;
+}
+
+.numberToMatch {
+    margin: 10px;
+    background-color: #71B2B4;
+    font-size: 25px;
+    display: inline-block;
+    border: 1px solid;
+    box-sizing: border-box;
+    text-align: center;
+    width: 150px;
+    position: relative;
+    left: 24px;
+    font-family: 'Special Elite', cursive;
+    position: relative;
+    left: 400px;
+}
+
+.winsLosses {
+    margin: 10px;
+    background-color: #F35D3C;
+    border-radius: 20px;
+    font-size: 20px;
+    display: block;
+    border: 3px solid;
+    width: 300px;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+    padding: top 10px;
+    position: relative;
+    bottom: 77px;
+    
+}
+
+.scoreBox {
+    margin: 10px;
+    background-color: #71B2B4;
+    font-size: 30px;
+    display: inline-block;
+    border: 1px solid;
+    box-sizing: border-box;
+    text-align: center;
+    width: 150px;
+    position: relative;
+    left: 24px;
+    bottom: 77px;
+    font-family: 'Special Elite', cursive;
+}

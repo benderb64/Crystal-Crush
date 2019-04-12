@@ -187,3 +187,8 @@ bottom: 77px;
     font-weight: bold;
 }
 /* Popup box BEGIN */
+
+/* Highlight Button */
+a:hover { 
+    background-color: #F35D3C;
+  }

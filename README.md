@@ -12,4 +12,4 @@ Click on the crystal images to add points to your total. Track your wins and los
   <li>JavaScript</li>
 </ul>  
 
-<a href="https://benderb64.github.io/Crystal-Game/" target="_top">Live Site</a>
+<a href="https://benderb64.github.io/Crystal-Crush/" target="_top">Live Site</a>

@@ -8,7 +8,7 @@ Click on the crystal images to add points to your total. Track your wins and los
 <ul>
   <li>HTML5</li>
   <li>CSS</li>
-  <li>jQuery<li>
+  <li>jQuery</li>
   <li>JavaScript</li>
 </ul>  
 

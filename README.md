@@ -3,7 +3,7 @@ Crystal Crush is a game to test your memory & math skills. The goal of the game 
 
 Click on the crystal images to add points to your total. Track your wins and losses as the game goes on.
 
-##Technologies Used
+## Technologies Used
 
 <ul>
   <li>HTML5</li>
